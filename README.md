@@ -23,7 +23,7 @@ The Student Management System is a PHP-based application designed to streamline 
 5. **Open the application in your web browser:** Navigate to the appropriate URL to access the system.
 
 ## Usage
-- **Admin Login Page:** Navigate to the admin login page and enter your credentials (default username: `admin`, password: `1234`).
+- **Admin Login Page:** Navigate to the admin login page and enter your credentials (default username: `dave`, password: `1234`).
 - **Dynamic Editing Capabilities:** Explore the system's capabilities to manage various aspects of the school, such as class information, subjects, staff details, exam information, and exam timetables.
 
 ## Contributing
